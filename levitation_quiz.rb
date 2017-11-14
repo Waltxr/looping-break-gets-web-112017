@@ -6,7 +6,5 @@ def levitation_quiz
       break if user_input == "Wingardium Leviosa"
     end
     puts "You passed the quiz!"
-  end
 end
 
-levitation_quiz
